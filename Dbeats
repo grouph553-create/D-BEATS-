@@ -1,0 +1,9 @@
+{
+  "songs": [
+    {
+      "title": "Song 1",
+      "artist": "Singer A",
+      "url": "https://raw.githubusercontent.com/grouph553-create/FEEL-U/main/song1.mp3"
+    }
+  ]
+}
